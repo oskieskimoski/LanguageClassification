@@ -26,4 +26,15 @@ bin/
 .vscode/
 
 ### Mac OS ###
-.DS_Store
+.DS_Store"" 
+"# IDE files" 
+".idea/" 
+"*.iml" 
+"*.iws" 
+"*.ipr" 
+"out/" 
+"target/" 
+"" 
+"# OS files" 
+".DS_Store" 
+"Thumbs.db" 
